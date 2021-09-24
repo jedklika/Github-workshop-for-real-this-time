@@ -8,6 +8,7 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         Debug.Log("Github is a bit tricky");
+        Debug.Log("Github but not impossible");
 
     }
 
