@@ -10,6 +10,7 @@ public class NewBehaviourScript : MonoBehaviour
         Debug.Log("Github is a bit tricky and easy to mess");
         Debug.Log("Github but not impossible and can be fixed");
         Debug.Log("Hello this is Obi");
+        Debug.Log("Hello I am jed klika");
 
     }
 
