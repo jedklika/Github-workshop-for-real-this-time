@@ -7,8 +7,8 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Github is a bit tricky");
-        Debug.Log("Github but not impossible");
+        Debug.Log("Github is a bit tricky and easy to mess");
+        Debug.Log("Github but not impossible and can be fixed");
 
     }
 
