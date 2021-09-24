@@ -7,7 +7,7 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Time for reversions");
+        Debug.Log("Github is a bit tricky");
 
     }
 
